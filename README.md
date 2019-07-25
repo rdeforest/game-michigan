@@ -5,5 +5,5 @@ The Michigan game!
 ## Branches
 
 - master:        orientation
-- canon-public:  info for all players
-- canon-private: info for some players and the GM
+- canon-public-vN:  info for all players of instance N of the scenario
+- canon-private-vN: info for some players and the GM of instance N of the scenario
